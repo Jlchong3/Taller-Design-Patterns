@@ -1,0 +1,8 @@
+ec/edu/espol/mavenproject1/Notification.class
+ec/edu/espol/mavenproject1/TelegramDecorator.class
+ec/edu/espol/mavenproject1/SignalDecorator.class
+ec/edu/espol/mavenproject1/NotificationService.class
+ec/edu/espol/mavenproject1/Mavenproject1.class
+ec/edu/espol/mavenproject1/WhatsAppDecorator.class
+ec/edu/espol/mavenproject1/NotificationDecorator.class
+ec/edu/espol/mavenproject1/WireDecorator.class

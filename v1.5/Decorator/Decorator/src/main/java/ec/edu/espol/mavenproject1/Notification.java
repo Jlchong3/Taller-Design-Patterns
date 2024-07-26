@@ -8,6 +8,7 @@ package ec.edu.espol.mavenproject1;
  *
  * @author angelozurita
  */
+
 public class Notification implements NotificationService  {
 
     @Override
